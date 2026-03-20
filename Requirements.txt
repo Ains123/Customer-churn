@@ -1,0 +1,13 @@
+#Requirements
+  pandas
+  numpy
+  matplotlib
+  scikit-learn
+
+#Install all dependencies with:
+  pip install pandas numpy matplotlib scikit-learn
+
+#How to Run
+  Download the dataset from Kaggle and place it in the project directory.
+  Open phase3_syriatel_churn.ipynb in Jupyter.
+  Run all cells in order from top to bottom.
