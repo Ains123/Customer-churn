@@ -27,7 +27,7 @@ Acquiring a new customer costs SyriaTel 5–10× more than retaining an existing
 | Property | Value |
 |---|---|
 | Source | BigML / Kaggle |
-| File | `bigml_59c28831336c6604c800002a.csv` |
+| File | `Customer_churn.csv` |
 | Rows | 3,333 customers |
 | Columns | 21 features |
 | Target | `churn` (True/False → 1/0) |
