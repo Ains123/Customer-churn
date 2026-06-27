@@ -1,37 +1,5 @@
----
-
-## Repository Structure
-
-```
-├── phase3_syriatel_churn.ipynb   # Main analysis notebook
-├── README.md                     # This file
-└── data/
-    └── bigml_59c28831336c6604c800002a.csv  # Dataset (download from Kaggle)
-```
-
----
-
-## Requirements
-
-```
-pandas
-numpy
-matplotlib
-scikit-learn
-```
-
-Install all dependencies with:
-
-```bash
-pip install pandas numpy matplotlib scikit-learn
-```
-
----
-
-## How to Run
-
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset) and place it in the project directory.
-2. Open `phase3_syriatel_churn.ipynb` in Jupyter.
-3. Run all cells in order from top to bottom.
-
----
+streamlit>=1.45.0
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.5.0
+joblib>=1.4.0
